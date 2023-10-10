@@ -1,0 +1,301 @@
+"first_name","last_name","gender","DOB","Age","past_3_years_bike_related_purchases","job_title","job_industry_category","wealth_segment","owns_car","tenure","address","postcode","state","property_valuation"
+"Sammy","Borsi","F","1972-04-27",51,99,"Accountant III","Financial Services","Mass Customer","No",5,"0 Kipling Way",2289,"NSW",7
+"Pace","Clemonts","M","1990-07-28",33,99,"Media Manager IV","Retail","High Net Worth","No",10,"335 Cambridge Hill",3122,"VIC",7
+"Clarine","Piecha","F","1964-12-07",58,99,"Dental Hygienist","Health","High Net Worth","No",14,"7523 Eggendart Hill",4151,"QLD",10
+"Irvine","Headon","M","1956-04-21",67,99,"Geologist III","IT","Affluent Customer","Yes",20,"9 Hovde Way",2322,"NSW",5
+"Theresa","Cowper","F","1976-08-24",47,99,"Accountant III","Manufacturing","Mass Customer","No",3,"88 Mifflin Pass",2529,"NSW",10
+"Wylie","Huntingdon","M","1966-08-11",57,99,"VP Quality Control","Financial Services","Mass Customer","No",15,"08822 Duke Road",2763,"NSW",8
+"Regine","Bownes","F","1952-07-01",71,99,"Senior Developer","Retail","Affluent Customer","No",15,"255 Loeprich Lane",3752,"VIC",9
+"Mikol","Eck","M","1975-07-25",48,99,"VP Marketing","Financial Services","Mass Customer","Yes",21,"15621 Twin Pines Crossing",4130,"QLD",9
+"Cissiee","Baylis","F","1951-07-22",72,99,"Cost Accountant","Financial Services","High Net Worth","No",16,"18 Dottie Park",2230,"NSW",11
+"Colas","Gabbitas","M","1946-09-09",77,98,"Staff Scientist","Retail","High Net Worth","No",20,"3094 Elka Place",2166,"NSW",9
+"Hasheem","Groucock","M","1974-09-17",49,98,"Budget/Accounting Analyst IV","Manufacturing","High Net Worth","Yes",10,"12351 Spenser Pass",2034,"NSW",12
+"Calhoun","Mussington","M","1992-10-13",30,98,"Dental Hygienist","Health","Mass Customer","No",12,"176 Fallview Plaza",2019,"NSW",9
+"Selle","Casper","F","1978-03-27",45,98,"Social Worker","Health","Mass Customer","Yes",10,"34 Jay Hill",2880,"NSW",1
+"Leticia","Hovenden","F","1997-04-03",26,98,"Mechanical Systems Engineer","Retail","Mass Customer","Yes",1,"54782 Lake View Parkway",3178,"VIC",9
+"Kizzee","Agget","F","1976-07-25",47,98,"Statistician II","Manufacturing","Affluent Customer","No",8,"122 Marcy Park",2213,"NSW",10
+"Daisy","Pollen","F","1993-08-09",30,97,"Cost Accountant","Financial Services","Mass Customer","No",7,"61825 Debs Terrace",3167,"VIC",9
+"Tomaso","Horsley","M","2001-04-16",22,97,"Junior Executive","Financial Services","Mass Customer","Yes",10,"70360 Onsgard Plaza",3977,"VIC",6
+"Etan","Prinett","M","1970-01-21",53,97,"Operator","Argiculture","Mass Customer","Yes",10,"9082 Waywood Avenue",2250,"NSW",8
+"Menard","Venmore","M","1978-04-04",45,97,"Assistant Professor","Retail","High Net Worth","No",8,"5 Hoard Trail",2197,"NSW",10
+"Ferdinand","Billie","M","1965-09-04",58,97,"Chemical Engineer","Manufacturing","Mass Customer","No",6,"660 Carey Avenue",2759,"NSW",8
+"Geoff","Sitford","M","1965-02-27",58,97,"Account Executive","Financial Services","Mass Customer","Yes",4,"7 Elgar Road",2148,"NSW",8
+"Odessa","Mc Andrew","F","1981-12-01",41,97,"Null","Property","Mass Customer","No",8,"31756 Meadow Valley Lane",2232,"NSW",10
+"Ardis","Taree","F","1960-04-12",63,97,"Chemical Engineer","Manufacturing","Affluent Customer","Yes",5,"0 Emmet Trail",4128,"QLD",9
+"Ingmar","Okenden","M","1959-03-01",64,97,"Compensation Analyst","Financial Services","Mass Customer","Yes",8,"1 Graceland Plaza",3216,"VIC",2
+"Latrena","Walklate","F","1943-10-05",79,97,"Mechanical Systems Engineer","Telecommunications","High Net Worth","Yes",13,"87 Sheridan Junction",2281,"NSW",8
+"Nico","Chadwick","M","1953-05-24",70,97,"Research Assistant IV","Financial Services","Affluent Customer","No",13,"355 Roxbury Lane",3190,"VIC",8
+"Patrice","Pariss","M","1954-06-15",69,96,"VP Accounting","Financial Services","Mass Customer","No",9,"3745 Thierer Trail",4078,"QLD",5
+"Keelby","Sudlow","M","1988-09-01",35,96,"Marketing Assistant","Manufacturing","High Net Worth","No",12,"8042 Cherokee Court",3163,"VIC",8
+"Shellysheldon","Bichard","M","1954-01-06",69,96,"Desktop Support Technician","Financial Services","Mass Customer","Yes",16,"7199 Springview Parkway",4503,"QLD",5
+"Roch","Symson","F","1978-05-13",45,96,"Office Assistant I","Manufacturing","High Net Worth","No",18,"016 Westport Park",3073,"VIC",9
+"Fonsie","Levane","M","1951-07-10",72,96,"Account Representative III","Null","High Net Worth","Yes",19,"83 Armistice Terrace",4011,"QLD",3
+"Jobie","Runacres","F","1975-01-08",48,96,"Developer IV","Null","Mass Customer","Yes",18,"24960 Shopko Crossing",2528,"NSW",7
+"Giana","Staresmeare","F","1976-04-20",47,96,"Account Representative IV","Retail","Affluent Customer","Yes",9,"8737 Scoville Center",2770,"NSW",7
+"Nady","Withinshaw","F","1968-02-17",55,96,"Database Administrator III","Null","High Net Worth","No",8,"7 Brentwood Circle",4000,"QLD",7
+"Maximilian","Geffen","M","1955-07-13",68,96,"Automation Specialist III","Manufacturing","Mass Customer","Yes",20,"8634 Wayridge Pass",2750,"NSW",8
+"Randall","Mason","M","1974-07-28",49,95,"Product Engineer","Health","Mass Customer","Yes",12,"83497 Memorial Plaza",2570,"NSW",11
+"Kiley","Grunder","M","1994-04-17",29,95,"Cost Accountant","Financial Services","Affluent Customer","Yes",1,"17393 Colorado Hill",4006,"QLD",8
+"Torry","de la Valette Parisot","M","1967-03-14",56,95,"VP Marketing","Telecommunications","Mass Customer","Yes",18,"36963 Pierstorff Terrace",3168,"VIC",9
+"Franciska","Stigell","F","1968-11-15",54,95,"Food Chemist","Health","Mass Customer","Yes",7,"6 Anderson Junction",3802,"VIC",7
+"Maurizia","Ritmeyer","F","1980-04-09",43,95,"Teacher","Entertainment","Mass Customer","Yes",3,"0 Express Lane",2142,"NSW",6
+"Vittoria","Whitney","F","1981-06-03",42,95,"Research Assistant I","Null","High Net Worth","No",12,"3 Surrey Court",2019,"NSW",11
+"Guss","Karim","M","1968-11-24",54,95,"Senior Sales Associate","Manufacturing","Mass Customer","No",7,"4 Warner Circle",2227,"NSW",11
+"Aridatha","Sephton","F","1961-10-22",61,95,"Human Resources Assistant II","Null","Mass Customer","No",5,"422 Forster Circle",2340,"NSW",1
+"Dorian","Emery","F","1998-08-24",25,94,"Professor","Manufacturing","Mass Customer","Yes",9,"67 Beilfuss Plaza",2168,"NSW",8
+"Ginger",NULL,"M","1939-02-19",84,94,"Human Resources Manager","Null","Mass Customer","No",11,"160 Fremont Point",2259,"NSW",8
+"Kylila","Basezzi","F","1945-06-11",78,94,"Assistant Manager","Null","Mass Customer","Yes",9,"64 Armistice Point",4217,"QLD",9
+"Rockwell","Matson","M","1995-01-01",28,94,"Programmer Analyst I","Retail","High Net Worth","No",3,"3682 Crowley Point",4573,"QLD",6
+"Levy","Abramamov","M","1952-09-21",70,94,"Teacher","Null","Affluent Customer","Yes",14,"6776 Anderson Center",4037,"QLD",8
+"Jodi","Lermit","F","1954-01-30",69,94,"Null","Health","Mass Customer","Yes",10,"05 Corry Center",4021,"QLD",2
+"Robenia","Monks","F","1959-05-08",64,94,"Nurse Practicioner","Manufacturing","Mass Customer","No",5,"8 Fieldstone Street",4065,"QLD",9
+"Giselbert","Pickring","M","1959-07-28",64,94,"Tax Accountant","Manufacturing","Affluent Customer","Yes",20,"653 2nd Park",2766,"NSW",8
+"Davie","Blay","M","1985-12-19",37,94,"Financial Analyst","Financial Services","Mass Customer","No",8,"7021 5th Alley",2770,"NSW",7
+"Fredia","Favelle","F","1974-08-29",49,94,"Teacher","Null","Mass Customer","Yes",19,"4 Arapahoe Terrace",4014,"QLD",8
+"Vittorio","Boxen","M","1965-08-15",58,94,"Mechanical Systems Engineer","Null","Mass Customer","No",14,"3 Anthes Court",2148,"NSW",9
+"Meade","McReedy","F","1968-11-23",54,94,"Safety Technician IV","Financial Services","Affluent Customer","Yes",9,"04153 Johnson Point",2193,"NSW",10
+"Ludovico","Juster","M","1992-04-19",31,93,"Environmental Specialist","Null","Affluent Customer","No",15,"1 Talisman Avenue",2125,"NSW",10
+"Eachelle","Noirel","F","1974-01-26",49,93,"Registered Nurse","Health","Affluent Customer","Yes",11,"80 Schiller Center",2292,"NSW",6
+"Daryle","Marginson","M","1986-06-27",37,93,"Environmental Tech","Argiculture","Mass Customer","Yes",9,"21316 Ohio Place",2121,"NSW",12
+"Garreth","Minett","M","1961-05-23",62,93,"Physical Therapy Assistant","Null","Affluent Customer","Yes",10,"21667 Randy Crossing",3163,"VIC",7
+"Hagen","MacCarter","M","1983-02-08",40,93,"Null","Entertainment","Affluent Customer","Yes",15,"7 Ramsey Trail",3172,"VIC",9
+"Averil","Ackery","M","1970-09-09",53,93,"Sales Representative","Retail","Mass Customer","Yes",7,"344 Darwin Junction",2093,"NSW",12
+"Nicole","Ruckhard","F","1969-10-09",53,93,"Human Resources Manager","Health","Affluent Customer","Yes",17,"23694 Leroy Place",4560,"QLD",3
+"Wolf","Craft","M","1995-07-19",28,93,"Database Administrator III","Retail","Affluent Customer","Yes",5,"7513 Swallow Drive",2148,"NSW",9
+"Tamar","Windmill","F","1939-08-28",84,92,"Senior Editor","Manufacturing","Affluent Customer","No",10,"4669 Troy Place",2207,"NSW",10
+"Iain","Haversham","M","1950-12-26",72,92,"Sales Representative","Retail","Mass Customer","Yes",13,"170 Briar Crest Place",2120,"NSW",10
+"Renie","Fiveash","F","1992-10-10",30,92,"Occupational Therapist","Health","High Net Worth","No",16,"2 Anniversary Trail",4508,"QLD",4
+"Tannie","Gambrell","M","1967-05-25",56,92,"Financial Analyst","Financial Services","Affluent Customer","No",4,"49 Surrey Point",4710,"QLD",4
+"My","Chaston","M","1966-07-16",57,92,"Desktop Support Technician","Manufacturing","Affluent Customer","Yes",16,"74613 Northport Park",3765,"VIC",9
+"Wallace","Newart","M","1977-12-06",45,91,"Null","IT","Mass Customer","No",17,"29007 Dapin Street",4650,"QLD",1
+"Celeste","Fretson","F","1980-09-16",43,91,"Product Engineer","IT","Mass Customer","No",9,"14709 Portage Avenue",2166,"NSW",9
+"Sim","Constantinou","M","1992-08-09",31,91,"Analog Circuit Design manager","Property","Mass Customer","No",5,"41002 Loomis Park",2010,"NSW",9
+"Otha","Langworthy","F","1967-01-20",56,91,"Senior Financial Analyst","Financial Services","Mass Customer","Yes",13,"678 Lyons Trail",3130,"VIC",10
+"Ange","Chitham","F","1991-02-14",32,91,"Null","Argiculture","Mass Customer","No",10,"00003 Hoffman Pass",2560,"NSW",8
+"Jehu","Prestedge","M","1999-10-20",23,91,"Null","Manufacturing","High Net Worth","Yes",8,"88 Annamark Avenue",2138,"NSW",12
+"Gardiner","Gypps","M","1991-06-01",32,91,"VP Product Management","Retail","Mass Customer","Yes",13,"1 Elgar Alley",2166,"NSW",9
+"Andee","Huke","F","1971-06-28",52,91,"Null","Manufacturing","Mass Customer","No",9,"4810 Kim Park",3858,"VIC",2
+"Bobby","Summersby","M","1943-10-27",79,90,"Sales Associate","Financial Services","Affluent Customer","No",7,"1478 Oak Valley Park",3350,"VIC",2
+"Queenie","Learie","F","1948-01-24",75,90,"Null","Property","Mass Customer","No",12,"7 Sauthoff Park",2073,"NSW",11
+"Dahlia","Shovlar","F","1966-03-07",57,90,"Environmental Specialist","Null","Affluent Customer","Yes",7,"655 Glendale Trail",3976,"VIC",3
+"Harland","Messenger","M","1974-05-28",49,90,"Software Test Engineer I","Retail","Mass Customer","No",8,"27 Crownhardt Center",3934,"VIC",10
+"Sunny","Christescu","F","1975-03-12",48,90,"Cost Accountant","Financial Services","Mass Customer","No",11,"6668 Blue Bill Park Plaza",2209,"NSW",10
+"Malorie","Votier","F","1990-05-29",33,90,"Graphic Designer","Manufacturing","Affluent Customer","No",4,"6160 Weeping Birch Hill",4509,"QLD",5
+"Geoff","Gwillym","M","1999-02-22",24,89,"Clinical Specialist","Health","Affluent Customer","No",8,"1 Eliot Plaza",2323,"NSW",4
+"Aloysius","Killingsworth","M","1957-02-14",66,89,"VP Quality Control","Null","Mass Customer","No",12,"625 Mandrake Junction",2145,"NSW",9
+"Rafi","Brettelle","M","1956-08-12",67,89,"Operator","Health","High Net Worth","No",6,"11 Brickson Park Alley",2166,"NSW",10
+"Lark","Gonet","F","1972-01-17",51,89,"Database Administrator II","Health","High Net Worth","No",8,"261 Orin Center",2763,"NSW",8
+"Padraig","Snel","M","1970-11-08",52,89,"Staff Accountant II","Null","Mass Customer","No",19,"12683 Mifflin Point",2114,"NSW",7
+"Dimitri","Tribbeck","M","1958-12-07",64,89,"Chief Design Engineer","Null","Affluent Customer","No",20,"93235 Hoard Trail",3165,"VIC",6
+"Tessa","Friese","F","1976-10-24",46,89,"Health Coach II","Financial Services","Mass Customer","No",21,"98158 Alpine Point",4212,"QLD",9
+"Bogey","Attew","M","1992-11-18",30,88,"Software Engineer II","IT","Mass Customer","Yes",10,"4 Monterey Road",4165,"QLD",9
+"Rodolphe","Glenton","M","1974-09-28",48,88,"Programmer Analyst II","Financial Services","Affluent Customer","No",11,"4787 Golf Terrace",3163,"VIC",7
+"Dukie","Swire","M","1954-03-31",69,88,"Null","Manufacturing","Affluent Customer","Yes",5,"64 Granby Parkway",2500,"NSW",8
+"Markus","Pendrey","M","1959-08-01",64,88,"Clinical Specialist","Health","Affluent Customer","Yes",12,"2382 Anthes Crossing",2153,"NSW",10
+"Kearney","Cuddehy","M","1997-05-18",26,88,"Marketing Assistant","Retail","Mass Customer","No",12,"98 Shoshone Road",4207,"QLD",6
+"Lek","Pimblett","M","1955-09-29",67,88,"Product Engineer","Financial Services","Mass Customer","Yes",6,"97 Merrick Center",2460,"NSW",2
+"Konstanze","Hovie","F","1967-01-09",56,88,"Pharmacist","Health","Mass Customer","No",11,"351 Sunfield Lane",4370,"QLD",7
+"Sybilla","MacCart","F","1987-01-15",36,88,"Paralegal","Financial Services","Mass Customer","Yes",7,"74 Welch Pass",2620,"NSW",7
+"Shelli","Bartholomaus","F","1963-05-11",60,88,"Associate Professor","Health","Mass Customer","Yes",6,"356 Carberry Avenue",3082,"VIC",7
+"Agna","Cowpe","F","1969-03-05",54,88,"Null","Property","Mass Customer","Yes",7,"2 Main Lane",4114,"QLD",3
+"Lavena","Seekings","F","1995-03-25",28,87,"Payment Adjustment Coordinator","Retail","Mass Customer","No",16,"293 Mayfield Street",3166,"VIC",10
+"Clemmie","Bartoszewicz","F","1958-07-28",65,87,"Statistician IV","Financial Services","Mass Customer","No",8,"727 Morrow Parkway",3197,"VIC",9
+"Olive","Mozzi","F","1955-07-06",68,87,"Account Representative IV","Retail","Affluent Customer","Yes",20,"26667 Rigney Place",2567,"NSW",9
+"Harwell","Kleinstein","M","1993-10-18",29,87,"Sales Representative","Retail","Affluent Customer","No",15,"7 Huxley Trail",3818,"VIC",5
+"Killie","Densie","M","1997-03-28",26,87,"Environmental Tech","IT","Mass Customer","Yes",11,"62 Dryden Junction",2042,"NSW",10
+"Sofie","Worsfold","F","1954-10-06",68,87,"Environmental Tech","Retail","Mass Customer","Yes",9,"7 Maple Wood Plaza",4125,"QLD",6
+"Glenda","Eliet","F","1974-06-17",49,87,"Quality Control Specialist","Null","Mass Customer","No",12,"1 Fordem Way",3844,"VIC",7
+"Errick","Burgin","M","1998-08-19",25,87,"Professor","Entertainment","Mass Customer","No",11,"417 Killdeer Alley",2650,"NSW",2
+"Zach","Hedman","M","1981-09-11",42,87,"Analyst Programmer","Financial Services","Affluent Customer","Yes",4,"62 Spaight Center",2566,"NSW",9
+"Zabrina","Margram","F","1964-05-15",59,87,"Null","Manufacturing","High Net Worth","Yes",11,"1092 Kinsman Parkway",4053,"QLD",8
+"Teddy","Lagadu","F","1969-07-20",54,86,"Design Engineer","Null","High Net Worth","No",6,"2 Charing Cross Trail",2759,"NSW",8
+"Juliann","Siemantel","F","1947-12-15",75,86,"Librarian","Entertainment","Mass Customer","No",22,"28 Parkside Park",3046,"VIC",8
+"Anthony","Lindstrom","M","1997-11-01",25,86,"Geologist IV","Financial Services","Affluent Customer","Yes",10,"427 Oak Avenue",2205,"NSW",10
+"Chickie","Brister","M","1957-07-12",66,86,"General Manager","Manufacturing","Mass Customer","Yes",14,"45 Shopko Center",4500,"QLD",6
+"Caritta","Compston","F","1958-04-25",65,86,"Geological Engineer","Manufacturing","Mass Customer","Yes",17,"48971 Marquette Point",3976,"VIC",5
+"Lissa","Gawn","F","1962-09-21",60,86,"Legal Assistant","Health","Mass Customer","Yes",17,"14183 Iowa Center",4503,"QLD",5
+"Agnola","Batterson","F","1980-01-03",43,86,"Physical Therapy Assistant","Financial Services","Mass Customer","No",7,"216 Bultman Park",4305,"QLD",3
+"Launce","Gale","M","1939-01-15",84,86,"Null","Null","Mass Customer","No",21,"4 Fordem Avenue",2777,"NSW",9
+"Andrea","Pendle","F","1938-08-05",85,86,"Null","Null","High Net Worth","Yes",13,"31281 Meadow Valley Way",4500,"QLD",6
+"Arty","Strudwick","M","1964-01-31",59,85,"Data Coordiator","Health","Mass Customer","Yes",8,"62 Melrose Court",2211,"NSW",10
+"Jobina","Gobourn","F","1994-12-04",28,85,"VP Quality Control","Null","High Net Worth","Yes",14,"18 Grim Road",4305,"QLD",4
+"Shadow","Yakutin","M","1967-02-03",56,85,"Software Test Engineer IV","Health","Affluent Customer","Yes",6,"06 Dwight Park",4119,"QLD",2
+"Bertine","Smalles","F","1983-12-10",39,85,"VP Quality Control","Financial Services","Mass Customer","Yes",9,"7 Johnson Hill",3028,"VIC",8
+"Daisi","Tinwell","F","1971-12-24",51,84,"Business Systems Development Analyst","Financial Services","Mass Customer","No",11,"19561 Express Street",2777,"NSW",8
+"Nora","Anselm","F","1961-01-05",62,84,"Null","Entertainment","High Net Worth","Yes",15,"2 Emmet Parkway",4342,"QLD",5
+"Andromache","Bonafacino","F","1977-09-01",46,84,"Null","Retail","Mass Customer","No",11,"74 Carpenter Street",2015,"NSW",9
+"Aldridge","Poskitt","M","1982-02-10",41,84,"VP Sales","Null","Mass Customer","No",12,"7 Fordem Point",4161,"QLD",5
+"Blinnie","Roze","F","1960-12-10",62,84,"Librarian","Entertainment","High Net Worth","No",11,"44557 Rutledge Court",4171,"QLD",7
+"Tanner","Terlinden","M","1995-12-09",27,84,"Nuclear Power Engineer","Manufacturing","Mass Customer","No",14,"2637 Monument Trail",3106,"VIC",11
+"Tannie","Petrakov","M","1951-11-27",71,84,"Data Coordiator","IT","Affluent Customer","No",10,"691 Valley Edge Alley",4078,"QLD",6
+"Engracia","Dobbs","F","1959-04-19",64,84,"Null","Health","Mass Customer","No",15,"72 Eliot Place",2250,"NSW",8
+"Cletis","Longley","M","1996-07-01",27,84,"Chemical Engineer","Manufacturing","High Net Worth","Yes",1,"667 Waxwing Plaza",3199,"VIC",7
+"Anet","Roseman","F","1996-11-24",26,84,"Programmer Analyst III","Financial Services","Mass Customer","No",9,"31 Melody Circle",3814,"VIC",4
+"Leticia","Danovich","F","1941-10-02",81,84,"Design Engineer","Entertainment","Mass Customer","Yes",15,"2 Logan Avenue",4307,"QLD",1
+"Denny","Spleving","F","1973-05-13",50,84,"Business Systems Development Analyst","Manufacturing","Affluent Customer","Yes",5,"85420 Myrtle Road",2114,"NSW",8
+"Hanny","Treven","F","1991-01-22",32,84,"Associate Professor","Retail","Mass Customer","No",3,"5 Quincy Street",4118,"QLD",4
+"Joane","Caldes","F","1978-03-17",45,84,"Senior Cost Accountant","Financial Services","High Net Worth","Yes",13,"42 3rd Plaza",2250,"NSW",7
+"Winnifred","Beswetherick","F","1976-06-08",47,83,"Actuary","Financial Services","Mass Customer","No",14,"61 4th Street",3040,"VIC",10
+"Reiko","Degenhardt","F","1976-01-16",47,83,"Financial Analyst","Financial Services","High Net Worth","Yes",5,"50897 Northfield Road",4280,"QLD",6
+"Leona","Shorrock","F","1951-08-23",72,83,"Senior Quality Engineer","Financial Services","Affluent Customer","Yes",22,"1560 Grim Avenue",4720,"QLD",1
+"Kellen","Pawelski","F","1945-07-26",78,83,"Null","Manufacturing","High Net Worth","Yes",11,"125 Manufacturers Parkway",2193,"NSW",8
+"Ethelred","Sissel","M","1974-12-25",48,83,"Programmer Analyst IV","Health","High Net Worth","No",18,"65 Rutledge Parkway",2539,"NSW",8
+"Hallsy","Voysey","M","1970-03-11",53,83,"Business Systems Development Analyst","Null","Mass Customer","No",16,"9 Westerfield Point",3437,"VIC",9
+"Lauralee","Fudge","F","1987-09-21",35,83,"Research Nurse","Health","Mass Customer","No",15,"9460 Monument Park",3277,"VIC",4
+"Rhodie","Gaskall","F","1964-02-01",59,83,"VP Quality Control","Null","Mass Customer","Yes",9,"251 Pierstorff Alley",4170,"QLD",9
+"Bunny","Leebetter","F","1966-04-30",57,83,"Quality Engineer","Manufacturing","High Net Worth","Yes",8,"4 Lukken Lane",4301,"QLD",4
+"Lucien",NULL,"M","1966-09-14",57,83,"Null","Financial Services","High Net Worth","Yes",19,"777 Fairfield Court",4305,"QLD",3
+"Jamal","Dudgeon","M","1965-02-09",58,83,"Mechanical Systems Engineer","Financial Services","Mass Customer","No",7,"2712 Namekagon Crossing",3029,"VIC",5
+"Sloan","Pudney","M","1964-11-10",58,83,"Junior Executive","Financial Services","Affluent Customer","No",16,"6771 Pleasure Terrace",4557,"QLD",9
+"Jenny","Massy","F","1963-10-16",59,82,"Project Manager","Telecommunications","Mass Customer","Yes",10,"6 Meadow Ridge Pass",2470,"NSW",2
+"Huberto","Mollatt","M","1961-08-27",62,82,"Programmer IV","Null","Mass Customer","Yes",14,"31121 Pierstorff Center",2770,"NSW",7
+"Ellwood","Budden","M","1998-06-03",25,82,"Null","Health","Mass Customer","Yes",11,"79907 Randy Center",2192,"NSW",10
+"Irvin","Bevans","M","1962-07-12",61,82,"Payment Adjustment Coordinator","Manufacturing","Mass Customer","No",12,"5880 Hauk Street",2046,"NSW",11
+"Tyne","Coate","F","1965-07-15",58,82,"Developer II","Manufacturing","Mass Customer","No",17,"90820 Thackeray Street",2218,"NSW",8
+"Vivienne","Crayden","F","1988-09-18",35,82,"Associate Professor","Null","High Net Worth","Yes",6,"69 Algoma Center",4173,"QLD",7
+"Cliff","Philipsson","M","1967-02-02",56,82,"Structural Analysis Engineer","Argiculture","Mass Customer","No",16,"600 Artisan Drive",3149,"VIC",10
+"Don","Spratling","M","1969-01-05",54,82,"Associate Professor","Property","Affluent Customer","Yes",7,"078 Erie Point",2760,"NSW",10
+"Antonietta","Egle","F","1973-09-25",49,82,"Actuary","Financial Services","Mass Customer","No",7,"590 Hagan Parkway",3805,"VIC",7
+"Palmer","Heaven","M","1995-05-18",28,82,"Staff Scientist","Financial Services","Affluent Customer","Yes",9,"5 Hoard Parkway",3754,"VIC",6
+"Abbie","Oldman","M","1983-11-26",39,82,"Null","Health","High Net Worth","Yes",5,"4 North Drive",2168,"NSW",8
+"Brynna","Tivers","F","1974-08-09",49,81,"Recruiting Manager","Financial Services","Mass Customer","No",6,"0 Mayfield Parkway",4272,"QLD",7
+"Adriane","Richardson","F","1976-03-10",47,81,"Data Coordiator","Manufacturing","High Net Worth","No",9,"4 Randy Street",3070,"VIC",8
+"Dexter","Shutle","M","1959-01-05",64,81,"Quality Control Specialist","Null","Mass Customer","No",17,"07 Dayton Court",4005,"QLD",7
+"Becka","Hacon","F","1965-07-03",58,81,"General Manager","Financial Services","Affluent Customer","No",17,"1 Namekagon Point",3791,"VIC",9
+"Gerri","Schimann","F","1969-11-17",53,81,"Desktop Support Technician","Property","Mass Customer","Yes",18,"47 Kim Terrace",2566,"NSW",8
+"Esdras","Birchett","M","1950-12-09",72,81,"Assistant Media Planner","Entertainment","Mass Customer","Yes",21,"5287 Clarendon Plaza",2258,"NSW",9
+"Haskell","Moxted","M","1943-08-27",80,81,"Civil Engineer","Manufacturing","Mass Customer","No",7,"2941 Talisman Alley",2145,"NSW",9
+"Harriet","Brattan","F","1986-12-03",36,81,"Human Resources Assistant I","Financial Services","High Net Worth","No",2,"66 Ruskin Parkway",3579,"VIC",1
+"Marcelia","Copins","F","1946-03-15",77,81,"Null","Null","Mass Customer","Yes",21,"330 Melby Terrace",2259,"NSW",8
+"Oswald","MacCarlich","M","1991-11-24",31,81,"Assistant Media Planner","Entertainment","Mass Customer","No",14,"16 Mosinee Place",4717,"QLD",1
+"Darb",NULL,"M","1969-06-04",54,80,"Food Chemist","Health","Affluent Customer","No",10,"780 Bonner Pass",4034,"QLD",5
+"Kylynn","Drowsfield","F","1975-03-28",48,80,"Editor","Null","High Net Worth","Yes",7,"5 Trailsway Avenue",3059,"VIC",9
+"Kamila","Parsonage","F","1954-03-08",69,80,"Null","Property","Mass Customer","No",5,"31 Mccormick Court",4131,"QLD",8
+"Ajay","Worham","F","1979-09-30",43,80,"Computer Systems Analyst I","Manufacturing","Mass Customer","Yes",12,"5 Homewood Road",2800,"NSW",6
+"Donn","MacGregor","M","1965-04-22",58,80,"Civil Engineer","Manufacturing","High Net Worth","No",5,"0439 Mandrake Park",2046,"NSW",10
+"Dwayne","Doel","M","1978-01-21",45,80,"Cost Accountant","Financial Services","Affluent Customer","Yes",17,"5642 Debs Terrace",2223,"NSW",11
+"Eugenie","Brinson","F","1963-08-10",60,79,"Assistant Media Planner","Entertainment","Mass Customer","Yes",17,"7109 Grayhawk Avenue",3073,"VIC",6
+"Flore","Cashen","F","1978-06-21",45,79,"Null","Health","High Net Worth","No",17,"4 Vera Pass",2640,"NSW",4
+"Andy","Deeming","M","1979-01-09",44,79,"Payment Adjustment Coordinator","Manufacturing","Affluent Customer","Yes",7,"63386 Talisman Hill",4556,"QLD",8
+"Devonne","Alderwick","F","1939-01-29",84,79,"Research Associate","Null","High Net Worth","Yes",9,"534 Lien Lane",3122,"VIC",7
+"Bryon","Goundry","M","1951-02-05",72,79,"Marketing Manager","Manufacturing","Mass Customer","No",21,"005 Kensington Street",4165,"QLD",5
+"Cordie","Brankley","F","1954-09-21",68,79,"Librarian","Entertainment","High Net Worth","No",18,"46 Westerfield Place",2195,"NSW",6
+"Jared","Fendlow","M","1963-08-25",60,79,"Media Manager II","Financial Services","Mass Customer","No",15,"6195 Bellgrove Lane",4211,"QLD",7
+"Neile","Argent","F","1946-10-25",76,79,"Null","Retail","Mass Customer","No",8,"2548 Arrowood Pass",2024,"NSW",10
+"Perry","Whitehurst","M","1980-05-29",43,79,"Structural Engineer","Manufacturing","High Net Worth","Yes",8,"0 Nelson Crossing",3155,"VIC",7
+"Worthington","Ahmed","M","1972-03-24",51,79,"Senior Cost Accountant","Financial Services","High Net Worth","No",13,"39408 Manufacturers Road",3335,"VIC",3
+"Emelen","Bidnall","M","1981-08-05",42,79,"Systems Administrator IV","Health","Affluent Customer","Yes",11,"11 Oak Terrace",2026,"NSW",12
+"Jacqui","Devey","F","1995-10-01",27,79,"Analyst Programmer","Financial Services","High Net Worth","Yes",13,"656 Kennedy Crossing",2261,"NSW",8
+"Catha","Davitt","F","1958-04-16",65,79,"Environmental Specialist","Property","High Net Worth","Yes",6,"192 South Junction",2567,"NSW",7
+"Maddalena","Angood","F","1999-07-28",24,79,"Null","Manufacturing","Affluent Customer","No",12,"1 Bluejay Court",2320,"NSW",4
+"Paxon","Roomes","M","1976-11-06",46,78,"Information Systems Manager","Null","High Net Worth","Yes",7,"3 Express Lane",3021,"VIC",7
+"Dorian","Stollen","M","1980-02-16",43,78,"Statistician I","Financial Services","Mass Customer","Yes",18,"72922 Cambridge Terrace",2026,"NSW",11
+"Poul","Gaskin","M","1950-06-15",73,78,"Help Desk Operator","Telecommunications","High Net Worth","No",17,"9 Killdeer Circle",2643,"NSW",2
+"Dorian","Rustman","M","1974-12-09",48,78,"Junior Executive","Manufacturing","Mass Customer","No",18,"6156 Summit Center",4352,"QLD",7
+"Bessie","Roscow","F","1994-08-04",29,78,"GIS Technical Architect","Financial Services","Mass Customer","No",9,"4185 Florence Trail",2121,"NSW",10
+"Aurie","Rhead","F","1962-07-28",61,78,"Geological Engineer","Manufacturing","Affluent Customer","Yes",5,"235 Mendota Court",2650,"NSW",2
+"Laurel","Devennie","F","1976-09-25",46,78,"VP Product Management","Manufacturing","Affluent Customer","No",13,"069 Hoard Pass",4352,"QLD",5
+"Afton","Andrassy","F","1998-10-14",24,78,"Web Designer II","Retail","Mass Customer","No",7,"220 Cody Alley",3075,"VIC",8
+"Brena","Schnitter","F","1982-10-11",40,78,"Account Executive","Manufacturing","Mass Customer","No",4,"67 Shelley Street",4703,"QLD",5
+"Aundrea","Outridge","F","2001-01-24",22,77,"Structural Engineer","Financial Services","Affluent Customer","Yes",10,"1530 Columbus Lane",3186,"VIC",12
+"Jacklin","Duchant","F","1940-03-18",83,77,"Legal Assistant","Argiculture","Mass Customer","No",17,"9 Memorial Road",4132,"QLD",4
+"Artemis","Swanson","M","1977-02-12",46,77,"Web Designer II","Argiculture","Mass Customer","Yes",13,"5 Melvin Park",3810,"VIC",5
+"Ansell","Tolhurst","M","1949-08-11",74,77,"Chemical Engineer","Manufacturing","Affluent Customer","No",22,"13 Montana Place",2232,"NSW",10
+"Darlleen","Shalcras","F","1980-09-14",43,77,"Health Coach I","Health","Mass Customer","No",11,"383 Graceland Avenue",2010,"NSW",10
+"Olia","O' Mullan","F","1973-03-24",50,77,"Account Executive","Health","Mass Customer","No",8,"6315 Mendota Parkway",2263,"NSW",7
+"Mabelle","Wellbelove","F","1958-04-21",65,76,"Null","Financial Services","Affluent Customer","Yes",19,"800 Emmet Park",2219,"NSW",9
+"Lotty","Loach","F","1961-08-23",62,76,"Nurse","Health","High Net Worth","Yes",7,"78451 South Street",2380,"NSW",3
+"Brooke","Arling","M","1961-12-05",61,76,"Null","Null","High Net Worth","No",6,"6 Melby Center",3027,"VIC",5
+"Farlie","Petford","M","1968-03-25",55,76,"Recruiting Manager","Null","High Net Worth","No",13,"2330 Butternut Trail",2017,"NSW",10
+"Melany","Ladewig","F","1972-05-17",51,76,"Research Associate","Financial Services","Mass Customer","Yes",10,"3864 Sheridan Alley",4130,"QLD",7
+"Salomon","Perkins","M","1998-01-12",25,76,"Engineer IV","Financial Services","Affluent Customer","Yes",1,"45 Banding Hill",2009,"NSW",10
+"Lea","Ilyinski","F","1997-09-25",25,75,"Structural Analysis Engineer","Financial Services","High Net Worth","No",12,"895 Glendale Park",2026,"NSW",12
+"Son","Varney","M","1993-11-02",29,75,"Analog Circuit Design manager","Property","Mass Customer","Yes",10,"189 Bayside Court",2480,"NSW",7
+"Laurie","Odlin","F","1983-03-08",40,75,"Social Worker","Health","High Net Worth","No",10,"15669 Arizona Trail",3194,"VIC",10
+"Briant","Ladley","M","1979-12-17",43,75,"Recruiter","Argiculture","Mass Customer","No",12,"2 Schlimgen Terrace",2750,"NSW",8
+"Felice","Dechelette","M","1998-02-05",25,75,"Librarian","Entertainment","High Net Worth","No",3,"4 Kingsford Trail",4051,"QLD",4
+"Fara","Sarath","F","1948-06-30",75,75,"Quality Control Specialist","Null","Mass Customer","No",22,"540 Forest Run Plaza",2168,"NSW",7
+"Isa","Fominov","M","2001-06-21",22,75,"Physical Therapy Assistant","Null","Mass Customer","Yes",5,"80388 Ryan Place",2010,"NSW",9
+"Norah","Mapis","F","2000-12-09",22,75,"Assistant Manager","Argiculture","Mass Customer","No",10,"057 Victoria Crossing",2263,"NSW",9
+"Cathleen","Le Teve","F","1950-11-06",72,75,"Recruiting Manager","Null","High Net Worth","No",18,"32834 Caliangt Way",4211,"QLD",3
+"Jesse","Crosio","M","1994-04-15",29,75,"Data Coordiator","Null","Mass Customer","Yes",13,"9313 Mayer Street",3133,"VIC",8
+"Dorotea","Fenwick","F","1950-10-12",72,74,"Nurse","Financial Services","High Net Worth","No",12,"72 Lukken Crossing",2016,"NSW",11
+"Tillie","Bisseker","F","1960-08-10",63,74,"Civil Engineer","Manufacturing","High Net Worth","No",14,"59208 Barnett Avenue",2104,"NSW",12
+"Noami","Cokly","F","1962-09-17",61,74,"Null","Manufacturing","Mass Customer","Yes",15,"2886 Buena Vista Terrace",2038,"NSW",11
+"Nancie","Vian","F","1972-12-27",50,74,"Human Resources Assistant II","Retail","Mass Customer","Yes",10,"85 Carioca Point",4814,"QLD",5
+"Delinda","Ech","F","1944-10-21",78,74,"Environmental Specialist","Argiculture","Mass Customer","Yes",17,"28 Golf View Terrace",3101,"VIC",10
+"Bill",NULL,"F","1963-04-24",60,74,"Human Resources Assistant II","Property","Mass Customer","Yes",19,"6704 Pine View Lane",2170,"NSW",9
+"Hanson","Eastes","M","1990-05-20",33,74,"Null","Manufacturing","Mass Customer","Yes",5,"5735 Starling Plaza",3056,"VIC",9
+"Cammy","Stoneham","F","1963-05-02",60,74,"Business Systems Development Analyst","Financial Services","High Net Worth","No",14,"8648 Green Alley",4680,"QLD",3
+"Maurizio","Comi","M","1996-05-30",27,74,"VP Product Management","IT","Affluent Customer","No",10,"25805 Eagan Place",2766,"NSW",9
+"Logan","Colomb","M","1948-01-01",75,74,"Recruiter","Null","Mass Customer","Yes",19,"266 Lakewood Terrace",2761,"NSW",8
+"Clari","Voas","F","1955-07-28",68,74,"Human Resources Assistant II","Health","Affluent Customer","Yes",14,"4110 Mifflin Center",2127,"NSW",8
+"Sibylla","Kibble","F","1962-08-05",61,73,"Pharmacist","Health","High Net Worth","No",12,"3 Ruskin Hill",2122,"NSW",9
+"Kevina","Ferandez","F","1999-09-21",23,73,"Assistant Professor","Financial Services","High Net Worth","No",15,"9608 Heffernan Drive",4068,"QLD",9
+"Rupert","Marrow","M","1970-08-08",53,73,"Null","Property","High Net Worth","No",19,"2 7th Way",2760,"NSW",8
+"Carola","Philler","F","1951-04-30",72,73,"Dental Hygienist","Health","High Net Worth","No",15,"1037 Roth Park",2145,"NSW",7
+"Vinny","Incogna","F","1953-02-13",70,73,"Null","Health","High Net Worth","No",10,"8 Grayhawk Circle",2756,"NSW",8
+"Julietta","Setchfield","F","1992-01-31",31,73,"Operator","Null","High Net Worth","Yes",3,"4 Manufacturers Crossing",4170,"QLD",8
+"Stephen","Tittershill","M","1991-12-21",31,73,"Nurse Practicioner","Financial Services","High Net Worth","No",6,"8 Scott Drive",3150,"VIC",11
+"Benedict","Rosas","M","1955-11-25",67,73,"Actuary","Financial Services","High Net Worth","Yes",15,"898 Muir Court",2142,"NSW",6
+"Sonni","Milligan","F","1988-03-05",35,73,"Budget/Accounting Analyst III","Retail","Mass Customer","Yes",14,"04769 Dahle Plaza",3170,"VIC",9
+"Demetria","Bausor","F","1961-12-22",61,73,"Assistant Media Planner","Entertainment","Mass Customer","Yes",9,"97 Transport Plaza",2097,"NSW",12
+"Emelia","Ackwood","F","1988-09-30",34,72,"Senior Cost Accountant","Financial Services","Mass Customer","Yes",10,"1 South Street",4183,"QLD",9
+"Arel","Abramovitz","M","1957-11-12",65,72,"Nurse Practicioner","Health","Mass Customer","No",16,"32249 Sycamore Way",4650,"QLD",4
+"David","Napoleon","M","1961-11-05",61,72,"Structural Engineer","Null","High Net Worth","No",14,"69 Garrison Point",2223,"NSW",11
+"Barthel","Docket","M","1985-08-02",38,72,"Accounting Assistant IV","IT","Mass Customer","Yes",17,"80 Scofield Junction",4151,"QLD",5
+"Antoinette",NULL,"F","1980-07-28",43,72,"Structural Analysis Engineer","Financial Services","Affluent Customer","No",5,"9 Derek Alley",3058,"VIC",9
+"Loria","Tappington","F","1955-09-06",68,72,"Research Assistant IV","Property","Mass Customer","No",5,"3920 Swallow Junction",3038,"VIC",8
+"Dmitri",NULL,"M","1991-02-06",32,72,"Null","Financial Services","High Net Worth","Yes",15,"4 Mallory Pass",3690,"VIC",4
+"Alexina","Mabley","F","1975-10-12",47,72,"Web Designer IV","Manufacturing","Mass Customer","Yes",10,"9 Rieder Junction",2573,"NSW",9
+"Aloysius","Glowacz","M","1979-03-24",44,72,"Financial Advisor","Financial Services","Affluent Customer","No",18,"07 Susan Lane",2232,"NSW",10
+"Tyne","Anshell","F","1992-04-08",31,71,"Mechanical Systems Engineer","Null","Mass Customer","Yes",3,"93 Sutherland Terrace",2560,"NSW",8
+"Lucilia","Minshall","F","1952-04-15",71,71,"Null","IT","Mass Customer","Yes",7,"0237 Mallard Place",2750,"NSW",8
+"Ashby","Bispham","M","1981-10-29",41,71,"Software Consultant","Retail","Affluent Customer","No",4,"83716 Russell Lane",2145,"NSW",8
+"Keely","Bointon","F","1988-10-16",34,71,"Nurse","Telecommunications","High Net Worth","No",3,"55 Dorton Point",4154,"QLD",9
+"Claudine","Barstowk","F","1966-07-20",57,71,"Nurse","Property","High Net Worth","Yes",5,"1859 Forest Circle",4000,"QLD",11
+"Jaimie","Lancastle","M","1972-10-23",50,71,"VP Marketing","Null","Mass Customer","Yes",5,"0 Bay Drive",2750,"NSW",8
+"Amabel",NULL,"F","1981-09-14",42,71,"Chief Design Engineer","Financial Services","Mass Customer","Yes",9,"3128 Mallory Pass",2144,"NSW",6
+"Elsworth","Abbitt","M","1956-02-08",67,71,"Null","Health","Mass Customer","Yes",6,"9722 Northport Way",3500,"VIC",3
+"Sherwin","Minocchi","M","1947-07-13",76,71,"Project Manager","Null","Mass Customer","Yes",11,"1 Alpine Crossing",2536,"NSW",8
+"Mikel","McNess","M","1981-09-22",41,71,"Nurse","Null","Mass Customer","No",9,"3 Pleasure Drive",4122,"QLD",9
+"Keriann","Newham","F","1975-03-26",48,71,"Assistant Manager","Financial Services","Mass Customer","No",5,"0193 Northland Street",4179,"QLD",9
+"Inglebert","Butland","M","1966-01-30",57,71,"Actuary","Financial Services","Mass Customer","Yes",7,"51837 Canary Center",2114,"NSW",9
+"Harvey","Dwelley","M","1973-08-30",50,70,"Help Desk Technician","Financial Services","Affluent Customer","No",18,"59846 2nd Pass",2077,"NSW",9
+"Jamison","Cashin","M","1970-05-19",53,70,"VP Product Management","Health","Mass Customer","Yes",5,"7 Dunning Avenue",2477,"NSW",8
+"Loise","Iltchev","F","1967-03-18",56,70,"Electrical Engineer","Manufacturing","High Net Worth","Yes",17,"45 Becker Place",4504,"QLD",6
+"Rodrique","Vernon","M","1978-08-06",45,70,"Budget/Accounting Analyst III","Manufacturing","Affluent Customer","No",17,"5864 Mcbride Trail",3174,"VIC",8
+"Bartram","Di Lucia","M","1961-01-03",62,70,"Null","Argiculture","Mass Customer","Yes",5,"83509 Delaware Street",2480,"NSW",3
+"Tristam","Larose","M","1985-01-29",38,70,"VP Accounting","Financial Services","Mass Customer","No",17,"9645 Moose Terrace",2137,"NSW",11
+"Jeanne","Darte","F","1955-08-18",68,70,"Null","Null","Mass Customer","Yes",11,"3 Homewood Park",2756,"NSW",7
+"Timi","Duny","F","1953-03-12",70,70,"Office Assistant II","Telecommunications","High Net Worth","No",6,"39192 Glendale Alley",2092,"NSW",12
+"Raff","Waycott","M","1951-12-16",71,70,"Engineer IV","Manufacturing","Affluent Customer","Yes",14,"94694 Eagle Crest Terrace",3977,"VIC",7
+"Brien","Heaton","M","1951-11-28",71,70,"Clinical Specialist","Health","Mass Customer","Yes",12,"8 Novick Trail",2470,"NSW",2
+"Kata","Harrop","F","1950-05-04",73,70,"Null","Retail","Affluent Customer","Yes",13,"2 Ridgeway Avenue",2196,"NSW",10
+"Gilli","Christophers","F","1948-03-02",75,70,"Database Administrator IV","Property","Affluent Customer","Yes",17,"53870 Jay Pass",4575,"QLD",9
+"Myrtie","Ostrich","F","1996-06-18",27,70,"VP Quality Control","Property","Affluent Customer","Yes",9,"320 Acker Drive",2251,"NSW",7
+"Taber","Szymon","M","1947-04-22",76,70,"Senior Sales Associate","Argiculture","Affluent Customer","No",13,"984 Del Sol Junction",4659,"QLD",8
+"Davidde","Cockroft","M","1947-04-21",76,70,"Geological Engineer","Manufacturing","High Net Worth","No",8,"8 Kim Avenue",2158,"NSW",12
+"Cheston","Hritzko","M","1945-11-08",77,70,"Software Engineer III","Manufacturing","Mass Customer","Yes",19,"3 Service Center",2127,"NSW",9
+"Alfonso","Massel","M","1940-12-05",82,70,"Null","Null","Mass Customer","Yes",13,"6065 Talisman Crossing",3977,"VIC",7
+"Romonda","Hallt","F","1960-05-09",63,69,"Operator","Null","Affluent Customer","No",15,"703 Ludington Plaza",2480,"NSW",4
+"Rosmunda","Duxbarry","F","1996-07-20",27,69,"Executive Secretary","Property","Affluent Customer","Yes",5,"989 Graedel Terrace",4208,"QLD",11
+"Meade","Bampton","M","1982-04-25",41,69,"Health Coach III","Health","High Net Worth","No",17,"7870 Stuart Crossing",2090,"NSW",7
+"Kelsey","Hatt","F","1966-06-27",57,69,"Senior Sales Associate","Financial Services","High Net Worth","No",8,"309 Maple Wood Pass",3930,"VIC",6
+"Rikki","Chaffey","M","1945-06-11",78,69,"Chemical Engineer","Manufacturing","Mass Customer","No",20,"9 Spohn Way",4127,"QLD",1
+"Morly","Genery","M","1970-03-22",53,69,"Structural Engineer","Property","Mass Customer","No",16,"14 Mccormick Park",2113,"NSW",11
+"Willard","Booton","M","1938-09-02",85,69,"Null","Health","High Net Worth","Yes",7,"05 Ronald Regan Alley",2121,"NSW",9
+"Nils","Champion","M","1984-07-06",39,69,"Programmer III","Retail","Affluent Customer","No",13,"261 Holy Cross Park",2750,"NSW",9
+"Giorgi","O'Shirine","M","1981-06-20",42,68,"Payment Adjustment Coordinator","Retail","Mass Customer","Yes",15,"6 Novick Alley",3934,"VIC",8
+"Eustacia","Dornan","F","1985-09-02",38,68,"Account Representative IV","Property","Mass Customer","No",5,"1190 Hanson Street",3806,"VIC",9
+"Biddie","Gorce","F","1988-01-30",35,68,"Senior Financial Analyst","Financial Services","Mass Customer","Yes",5,"2116 Continental Terrace",2795,"NSW",7
+"George","Jose","M","1960-12-19",62,68,"Payment Adjustment Coordinator","Retail","High Net Worth","Yes",20,"535 Corben Point",4680,"QLD",4
+"Sinclair","Wark","M","1974-02-21",49,68,"Financial Analyst","Financial Services","Mass Customer","Yes",11,"44 Thompson Center",2134,"NSW",9
+"Anson","Dearnaly","M","1997-06-29",26,68,"Data Coordiator","Health","Affluent Customer","Yes",11,"6060 Veith Crossing",2103,"NSW",11
+"Bevvy","Openshaw","F","1975-06-15",48,68,"Staff Scientist","Null","Affluent Customer","Yes",10,"902 Westend Lane",2318,"NSW",3
+"Arman","Yakubov","M","1977-10-07",45,68,"VP Quality Control","Property","High Net Worth","Yes",17,"11121 Jackson Crossing",2323,"NSW",4
+"Fancie","Woofendell","F","1966-09-17",57,68,"Research Nurse","Health","Mass Customer","Yes",6,"8 Crowley Center",4212,"QLD",7
+"Angie","Tansley","M","1950-11-30",72,68,"VP Sales","Manufacturing","Mass Customer","No",8,"8 Cardinal Junction",2444,"NSW",7
+"Jeno","Strafford","M","1941-07-21",82,67,"Tax Accountant","Financial Services","High Net Worth","No",7,"891 Sachtjen Hill",4170,"QLD",9
+"Keenan","Moriarty","M","1994-12-23",28,67,"Actuary","Financial Services","Mass Customer","Yes",2,"077 Hansons Point",4075,"QLD",8
+"Philbert","Bangs","M","1966-03-03",57,67,"Environmental Specialist","IT","Mass Customer","Yes",6,"02643 Moose Court",4500,"QLD",7
